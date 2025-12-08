@@ -1,0 +1,5 @@
+{
+  "name": "React Pro Billiards",
+  "description": "A realistic 2D billiards game featuring 8-ball mechanics, physics simulation, and a modern sleek interface.",
+  "requestFramePermissions": []
+}
